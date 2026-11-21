@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Simple X Feed</title>
+    <link>https://github.com/CRDeveloper/simple-rss-x-feed</link>
+    <description>Short updates for X. Replace these with your own posts.</description>
+    <language>en</language>
+
+    <item>
+      <title>Example post 1</title>
+      <description>This is a short example post that would go to X. Replace it with your own content. Keep it under 280 characters.</description>
+      <link>https://github.com/CRDeveloper/simple-rss-x-feed</link>
+      <pubDate>Sat, 21 Nov 2026 22:00:00 GMT</pubDate>
+      <guid isPermaLink="false">example-1-2026-11-21</guid>
+    </item>
+
+    <item>
+      <title>Example post 2</title>
+      <description>Another example. You can add as many items as you want. New items at the top get picked up first by most feed readers.</description>
+      <link>https://github.com/CRDeveloper/simple-rss-x-feed</link>
+      <pubDate>Sat, 21 Nov 2026 21:00:00 GMT</pubDate>
+      <guid isPermaLink="false">example-2-2026-11-21</guid>
+    </item>
+  </channel>
+</rss>
