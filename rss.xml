@@ -7,6 +7,14 @@
     <language>en</language>
 
     <item>
+      <title>Book: Build and own your booking SaaS</title>
+      <description>Want a booking platform you own? Build it yourself: the guide covers auth, email, DynamoDB and CDK deploys to S3/CloudFront, plus AI prompts for your coding agent. PDF + EPUB, from $9.99. https://awakeawaytek.gumroad.com/l/build-your-own-appointment-booking-saas #AWS</description>
+      <link>https://awakeawaytek.gumroad.com/l/build-your-own-appointment-booking-saas</link>
+      <pubDate>Wed, 25 Nov 2026 15:32:00 GMT</pubDate>
+      <guid isPermaLink="false">book-2026-11-25-1532</guid>
+    </item>
+
+    <item>
       <title>SiteForge: stop overpaying for hosting</title>
       <description>Tired of hosting bills that jump at renewal? SiteForge runs your booking site on AWS serverless for about $21–30 in year one, 81% less than GoDaddy Economy over 5 years. No servers to manage, no booking plugin fees. https://www.awakeawaytek.com/services/web-development/siteforge #WebDev</description>
       <link>https://www.awakeawaytek.com/services/web-development/siteforge</link>
