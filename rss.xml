@@ -7,6 +7,14 @@
     <language>en</language>
 
     <item>
+      <title>Book: From empty AWS account to booking platform</title>
+      <description>Building booking software? Skip the guesswork: 220 pages from an empty AWS account to a working platform with admin-approved bookings, auth and email. For devs who live in the terminal. PDF + EPUB, from $9.99. https://awakeawaytek.gumroad.com/l/build-your-own-appointment-booking-saas #DevOps</description>
+      <link>https://awakeawaytek.gumroad.com/l/build-your-own-appointment-booking-saas</link>
+      <pubDate>Fri, 27 Nov 2026 19:59:00 GMT</pubDate>
+      <guid isPermaLink="false">book-2026-11-27-1959</guid>
+    </item>
+
+    <item>
       <title>SiteForge: launch client booking sites fast</title>
       <description>Serve salons, clinics or studios? SiteForge launches a branded booking site in under 30 minutes, in English and Spanish, themed per client. Client data stays in their own AWS account. https://www.awakeawaytek.com/services/web-development/siteforge #SaaS</description>
       <link>https://www.awakeawaytek.com/services/web-development/siteforge</link>
