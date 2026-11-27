@@ -7,6 +7,14 @@
     <language>en</language>
 
     <item>
+      <title>SiteForge: launch client booking sites fast</title>
+      <description>Serve salons, clinics or studios? SiteForge launches a branded booking site in under 30 minutes, in English and Spanish, themed per client. Client data stays in their own AWS account. https://www.awakeawaytek.com/services/web-development/siteforge #SaaS</description>
+      <link>https://www.awakeawaytek.com/services/web-development/siteforge</link>
+      <pubDate>Fri, 27 Nov 2026 16:00:00 GMT</pubDate>
+      <guid isPermaLink="false">siteforge-2026-11-27-1600</guid>
+    </item>
+
+    <item>
       <title>Book: Build and own your booking SaaS</title>
       <description>Want a booking platform you own? Build it yourself: the guide covers auth, email, DynamoDB and CDK deploys to S3/CloudFront, plus AI prompts for your coding agent. PDF + EPUB, from $9.99. https://awakeawaytek.gumroad.com/l/build-your-own-appointment-booking-saas #AWS</description>
       <link>https://awakeawaytek.gumroad.com/l/build-your-own-appointment-booking-saas</link>
