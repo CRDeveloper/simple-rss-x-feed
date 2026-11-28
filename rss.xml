@@ -7,6 +7,14 @@
     <language>en</language>
 
     <item>
+      <title>SiteForge: new client sites in minutes</title>
+      <description>Managing booking sites for several clients? SiteForge's CLI installer spins up a new site in minutes. It scales automatically, with no servers to run and 60–75% lower hosting costs than traditional hosting. https://www.awakeawaytek.com/services/web-development/siteforge #SaaS</description>
+      <link>https://www.awakeawaytek.com/services/web-development/siteforge</link>
+      <pubDate>Sat, 28 Nov 2026 00:03:00 GMT</pubDate>
+      <guid isPermaLink="false">siteforge-2026-11-28-0003</guid>
+    </item>
+
+    <item>
       <title>Book: From empty AWS account to booking platform</title>
       <description>Building booking software? Skip the guesswork: 220 pages from an empty AWS account to a working platform with admin-approved bookings, auth and email. For devs who live in the terminal. PDF + EPUB, from $9.99. https://awakeawaytek.gumroad.com/l/build-your-own-appointment-booking-saas #DevOps</description>
       <link>https://awakeawaytek.gumroad.com/l/build-your-own-appointment-booking-saas</link>
